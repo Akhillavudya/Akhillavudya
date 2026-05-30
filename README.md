@@ -60,7 +60,7 @@
 - **VERA Bot**  
   Deterministic AI message composer for merchant engagement and business decision-making.
 
-- **Masgent AI Improvements**  
+- **MatMind AI Improvements**  
   Working on improving scientific agent accuracy using validators, workflow design, RAG, and result interpretation.
 
 ---
